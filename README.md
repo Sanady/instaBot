@@ -20,7 +20,7 @@ Follow button:
 Like button:
   `button_like = webdriver.find_element_by_xpath('/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button')`
 
-##Likes and follows:
+## Likes and follows:
 
 All likes and follows are saving in csv file, this kind of saving is made because maybe some how in future user will decide to make some kind of render on his private website for statistic.
 
